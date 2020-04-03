@@ -10,6 +10,8 @@ Since media channels are overflown with news on the COVID-19 virus it's harder a
 
 ## Description
 
+> **Note:** Some of the report sections have slicer with countries. The so called "select" countries is a predefined table with the countries I'm directly interested in. The report can always be changed to provide slicers for different countries.
+
 ### Report Sections
 
 | **Section** | **Description** | **Comments** |
@@ -50,9 +52,19 @@ Since media channels are overflown with news on the COVID-19 virus it's harder a
 | NovelCOVID / API | API for Current cases and more stuff about COVID-19 | [GitHub Repo](https://github.com/novelcovid/api)|
 | Coronavirus Romania Project | Romania project to track local cases | [Dashboard](https://covid19.geo-spatial.org/) |
 | DataHub.io Population CSV | Population Figures by Country | [CSV](https://datahub.io/JohnSnowLabs/population-figures-by-country/r/population-figures-by-country-csv.csv) |
-| France Data | | |
-| Italy Data | | |
-| Ireland Data | | |
-| US Data | | |
+| France Data | Data Against COVID-19 / FR | https://opencovid19.fr/ |
+| Italy Data | Italia - Monitoraggio situazione | [Dataset](https://data.world/ondata/covid-19-italia-dati-dipartimento-protezione-civile/workspace/project-summary?agentid=ondata&datasetid=covid-19-italia-dati-dipartimento-protezione-civile) & [Github](https://github.com/pcm-dpc/COVID-19) |
+| Ireland Data | GeoHive OpenData Catalog | [Dataset](https://opendata-geohive.hub.arcgis.com/datasets/58f883d6f4054574a1a885acd847bd51_0) |
+| US Data | NovelCOVID / API | see above |
 
 ## Inspiration
+
+* https://ourworldindata.org/coronavirus
+* https://ourworldindata.org/covid-testing
+* http://nrg.cs.ucl.ac.uk/mjh/covid19/
+* https://www.devex.com/news/covid-19-a-timeline-of-the-coronavirus-outbreak-96396
+* https://drive.google.com/file/d/1DqfSnlaW6N3GBc5YKyBOCGPfdqOsqk1G/view
+* https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
+* https://covid19.geo-spatial.org/dashboard/main
+* https://qap.ecdc.europa.eu/public/extensions/COVID-19/COVID-19.html
+* https://www.europeandataportal.eu/data/datasets/covid-19-coronavirus-data?locale=en
