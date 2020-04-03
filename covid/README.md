@@ -30,6 +30,11 @@ Since media channels are overflown with news on the COVID-19 virus it's harder a
 | **Data Source** | **Description** | **URL** |
 |-----------------|-----------------|---------|
 | JHU CSSE | Data repository for the 2019 Novel Coronavirus Visual Dashboard operated by the Johns Hopkins University | [GitHub CSV Files](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series) |
-
+| NovelCOVID / API | API for Current cases and more stuff about COVID-19 | [GitHub Repo](https://github.com/novelcovid/api)|
+| Coronavirus Romania Project | Romania project to track local cases | [Dashboard](https://covid19.geo-spatial.org/) |
+| DataHub.io Population CSV | Population Figures by Country | [CSV](https://datahub.io/JohnSnowLabs/population-figures-by-country/r/population-figures-by-country-csv.csv) |
+| TBD | | |
+| TBD | | |
+| TBD | | |
 
 ## Inspiration
