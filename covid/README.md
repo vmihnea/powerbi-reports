@@ -10,6 +10,8 @@ Since media channels are overflown with news on the COVID-19 virus it's harder a
 
 ## Description
 
+### Report Sections
+
 | **Section** | **Description** | **Comments** |
 |-------------|-----------------|--------------|
 | Trend Overview |  Overview of latest trends for (select) countries |
@@ -18,12 +20,24 @@ Since media channels are overflown with news on the COVID-19 virus it's harder a
 | Country Table | Table ranking countries by same measures |
 | Country Map | Map visualization of select countries by reported cases |
 | World | Map and table visualization of world wide cases |
-| Italy | |
-| Ireland | |
-| France | |
-| Romania | |
-| US | |
+| Italy | Italy Country Map and details (today) |
+| Ireland | Ireland Country Map and details (today)  |
+| France | France Country Map and details (today)  |
+| Romania | Romania Country Map and details (today) |
+| US | US Country Map and details (today) |
 | WIP | Work in progress visualization(s) |
+
+### Report Measures
+
+| **Measure** | **Description** | **Inspiration** |
+|-------------|-----------------|-----------------|
+| Days Cases Double | How long it has taken for the number of cases to double in each country| [Our World in Data](https://ourworldindata.org/coronavirus#the-growth-rate-of-covid-19-deaths) / [PowerBI Doubling Time](https://www.thebiccountant.com/2020/03/22/calculating-doubling-times-with-dax-in-power-bi/) |
+| Death Rate | Aparent mortality (total deaths / tocal confirmed cases) | |
+| Growth Rate | The % by which cases have increased (3 days average) | [CoVID Growth Rates](http://nrg.cs.ucl.ac.uk/mjh/covid19/) |
+| Days to Italy (Absolute) | Days it would take each country to reach current case level in Italy based on the Growth Rate | [CoVID Growth Rates](http://nrg.cs.ucl.ac.uk/mjh/covid19/) |
+| Days to Italy (Relative) | Same as above but relative to population | |
+| Days to Italy Peak (Absolute) | Days it would take each country to reach peak case level in Italy based on the Growth Rate. Peak case level is the date when Italy had the highest growth rate | |
+| Days to Italy Peak (Relative) | Same as above bu relative to population size | |
 
 ## Data Sources
 
